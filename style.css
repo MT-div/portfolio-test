@@ -5,5 +5,16 @@ body {
   padding: 50px;
 }
 h1 {
-  color: #2ecc71;
+  color: red;
+  cursor: pointer;
+  user-select: none;
+
+}
+p{
+    user-select: none;
+
+}
+button{
+    user-select: none;
+cursor: pointer;
 }
